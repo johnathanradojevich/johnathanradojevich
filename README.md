@@ -11,11 +11,6 @@ I'm currently employed at Terracon, where I’m spearheading the modernization o
 material, and geotechnical information related to their project sites.
 
 ```typescript
-
-const About = () => {
-  
-}
-
 class About extends Me {
   const getCurrentWorkplace(): [] => {
     return [{ company: 'Terracon', position: 'Software Developer' }]
