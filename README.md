@@ -6,7 +6,7 @@
 
 I have over two years of experience building performant web applications with .NET and JavaScript/TypeScript; deployed both on-premises and through Azure. I'm fluent in cloud technology, as well as agile methodologies, including Scrum. I'm also familiar with responsive design, search engine optimization, test-driven development, and semantic HTML; as well as the configuration of CI/CD pipelines for test automation and hybrid deployment.
 
-At Terracon, I’m spearheading the modernization of their operational processes, and
+I'm currently employed at Terracon, where I’m spearheading the modernization of their operational processes, and
 ”Client Portal”: a web map-based solution for clients to view the environmental,
 material, and geotechnical information related to their project sites.
 
