@@ -10,6 +10,19 @@ At Terracon, I’m spearheading the modernization of their operational processes
 ”Client Portal”: a web map-based solution for clients to view the environmental,
 material, and geotechnical information related to their project sites.
 
+```typescript
+
+const About = () => {
+  
+}
+
+class About extends Me {
+  const getCurrentWorkplace(): [] => {
+    return [{ company: 'Terracon', position: 'Software Developer' }]
+  }
+}
+```
+
 <h3 align="left">Competencies</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
