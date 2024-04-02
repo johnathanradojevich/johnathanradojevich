@@ -111,6 +111,31 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Angular-0e1117?style=flat-square&logo=angular">
     <img alt="an alternate image of the" src="header-dark.jpg">
 </picture>
+<picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Swift-black?style=flat-square&logo=swift">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Swift-0e1117?style=flat-square&logo=swift">
+    <img alt="an alternate image of the" src="header-dark.jpg">
+</picture>
+<picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Kafka-black?style=flat-square&logo=apachekafka">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Kafka-0e1117?style=flat-square&logo=apachekafka">
+    <img alt="an alternate image of the" src="header-dark.jpg">
+</picture>
+<picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Kubernetes-0e1117?style=flat-square&logo=kubernetes">
+    <img alt="an alternate image of the" src="header-dark.jpg">
+</picture>
+<picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Docker-0e1117?style=flat-square&logo=docker">
+    <img alt="an alternate image of the" src="header-dark.jpg">
+</picture>
+<picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Ansible-black?style=flat-square&logo=ansible">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Ansible-0e1117?style=flat-square&logo=ansible">
+    <img alt="an alternate image of the" src="header-dark.jpg">
+</picture>
 <hr>
 
 **I'm Johnathan** 👋 - The sense of accomplishment that I derive from software development is unparalleled. To me, there's a unique satisfaction in seeing source code come together to form a functioning piece of software. It's a feeling of creative expression and problem-solving that I haven’t been able to find anywhere else. Recently, I’ve found great interest in the design and implementation of programming languages themselves, and have directed my academic studies towards type theory and compilers. I’ve also begun building my own programming language, Arc, using Rust 🦀.
