@@ -136,6 +136,31 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Ansible-0e1117?style=flat-square&logo=ansible">
     <img alt="an alternate image of the" src="header-dark.jpg">
 </picture>
+<picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Postgres-black?style=flat-square&logo=postgres">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Postgres-0e1117?style=flat-square&logo=postgres">
+    <img alt="an alternate image of the" src="header-dark.jpg">
+</picture>
+<picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Postgres-black?style=flat-square&logo=mongodb">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Postgres-0e1117?style=flat-square&logo=mongodb">
+    <img alt="an alternate image of the" src="header-dark.jpg">
+</picture>
+<picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Postgres-black?style=flat-square&logo=elastisearch">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Postgres-0e1117?style=flat-square&logo=elastisearch">
+    <img alt="an alternate image of the" src="header-dark.jpg">
+</picture>
+<picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Postgres-black?style=flat-square&logo=supabase">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Postgres-0e1117?style=flat-square&logo=supabase">
+    <img alt="an alternate image of the" src="header-dark.jpg">
+</picture>
+<picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Postgres-black?style=flat-square&logo=nextjs">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Postgres-0e1117?style=flat-square&logo=nextjs">
+    <img alt="an alternate image of the" src="header-dark.jpg">
+</picture>
 <hr>
 
 **I'm Johnathan** 👋 - The sense of accomplishment that I derive from software development is unparalleled. To me, there's a unique satisfaction in seeing source code come together to form a functioning piece of software. It's a feeling of creative expression and problem-solving that I haven’t been able to find anywhere else. Recently, I’ve found great interest in the design and implementation of programming languages themselves, and have directed my academic studies towards type theory and compilers. I’ve also begun building my own programming language, Arc, using Rust 🦀.
