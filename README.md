@@ -22,13 +22,13 @@
     <img alt="an alternate image of the" src="header-dark.jpg">
 </picture>
 <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=typescript">
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-JavaScript-0e1117?style=flat-square&logo=typescript">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-TypeScript-0e1117?style=flat-square&logo=typescript">
     <img alt="an alternate image of the" src="header-dark.jpg">
 </picture>
 <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Java-black?style=flat-square&logo=java">
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Java-0e1117?style=flat-square&logo=java">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Java-black?style=flat-square&logo=coffeescript">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Java-0e1117?style=flat-square&logo=coffeescript">
     <img alt="an alternate image of the" src="header-dark.jpg">
 </picture>
 <picture>
