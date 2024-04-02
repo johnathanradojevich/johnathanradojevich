@@ -8,77 +8,77 @@
 
 <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5">
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-HTML-white?style=flat-square&logo=html5">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-HTML-0e1117?style=flat-square&logo=html5">
     <img alt="an alternate image of the" src="header-dark.jpg">
 </picture>
 <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3">
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-CSS-white?style=flat-square&logo=css3">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-CSS-0e1117?style=flat-square&logo=css3">
     <img alt="an alternate image of the" src="header-dark.jpg">
 </picture>
 <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript">
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-JavaScript-white?style=flat-square&logo=javascript">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-JavaScript-0e1117?style=flat-square&logo=javascript">
     <img alt="an alternate image of the" src="header-dark.jpg">
 </picture>
 <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=typescript">
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-JavaScript-white?style=flat-square&logo=typescript">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-JavaScript-0e1117?style=flat-square&logo=typescript">
     <img alt="an alternate image of the" src="header-dark.jpg">
 </picture>
 <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Java-black?style=flat-square&logo=java">
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Java-white?style=flat-square&logo=java">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Java-0e1117?style=flat-square&logo=java">
     <img alt="an alternate image of the" src="header-dark.jpg">
 </picture>
 <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-.NET-black?style=flat-square&logo=csharp">
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-.NET-white?style=flat-square&logo=csharp">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-.NET-0e1117?style=flat-square&logo=csharp">
     <img alt="an alternate image of the" src="header-dark.jpg">
 </picture>
 <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Golang-black?style=flat-square&logo=go">
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Golang-white?style=flat-square&logo=go">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Golang-0e1117?style=flat-square&logo=go">
     <img alt="an alternate image of the" src="header-dark.jpg">
 </picture>
 <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust">
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Rust-white?style=flat-square&logo=rust">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Rust-0e1117?style=flat-square&logo=rust">
     <img alt="an alternate image of the" src="header-dark.jpg">
 </picture>
 <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin">
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Kotlin-white?style=flat-square&logo=kotlin">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Kotlin-0e1117?style=flat-square&logo=kotlin">
     <img alt="an alternate image of the" src="header-dark.jpg">
 </picture>
 <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Azure-black?style=flat-square&logo=microsoftazure">
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Azure-white?style=flat-square&logo=microsoftazure">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Azure-0e1117?style=flat-square&logo=microsoftazure">
     <img alt="an alternate image of the" src="header-dark.jpg">
 </picture>
 <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws">
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-AWS-white?style=flat-square&logo=amazonaws">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-AWS-0e1117?style=flat-square&logo=amazonaws">
     <img alt="an alternate image of the" src="header-dark.jpg">
 </picture>
 <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Google_Cloud-black?style=flat-square&logo=googlecloud">
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Google_Cloud-white?style=flat-square&logo=googlecloud">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Google_Cloud-0e1117?style=flat-square&logo=googlecloud">
     <img alt="an alternate image of the" src="header-dark.jpg">
 </picture>
 <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux">
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Linux-white?style=flat-square&logo=linux">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Linux-0e1117?style=flat-square&logo=linux">
     <img alt="an alternate image of the" src="header-dark.jpg">
 </picture>
 <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Mac-black?style=flat-square&logo=apple">
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Mac-white?style=flat-square&logo=apple">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Mac-0e1117?style=flat-square&logo=apple">
     <img alt="an alternate image of the" src="header-dark.jpg">
 </picture>
 <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis">
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Redis-white?style=flat-square&logo=redis">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Redis-0e1117?style=flat-square&logo=redis">
     <img alt="an alternate image of the" src="header-dark.jpg">
 </picture>
 <hr>
