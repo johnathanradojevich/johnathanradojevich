@@ -4,7 +4,7 @@
     <img alt="an alternate image of the" src="header-dark.jpg">
 </picture>
 
-<h3 align="center">Software Engineer | Mentor @ <a href='https://udacity.com'>Udacity</a> | Algebraic Type System Enthusiast | Technical Blogger | <a href='https://aws.amazon.com/developer/community/community-builders/'> AWS Community Builder</a></h3>
+<h3 align="center">Software Engineer | Graduate Student @ <a href='https://ou.edu'>OU</a> | Algebraic Type Enthusiast | Technical Blogger | <a href='https://aws.amazon.com/developer/community/community-builders/'> AWS Community Builder</a></h3>
 
 <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5">
