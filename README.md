@@ -3,6 +3,7 @@
     <source media="(prefers-color-scheme: light)" srcset="header-light.jpg">
     <img alt="an alternate image of the" src="header-dark.jpg">
 </picture>
+
 <h3 align="center">Software Engineer | Mentor @ <a href='https://udacity.com'>Udacity</a> | Type Theory Enthusiast | Technical Blogger | <a href='https://aws.amazon.com/developer/community/community-builders/'> AWS Community Builder</a></h3>
 
 <picture>
@@ -65,11 +66,16 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Google_Cloud-white?style=flat-square&logo=googlecloud">
     <img alt="an alternate image of the" src="header-dark.jpg">
 </picture>
-
-
-
-
-
+<picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Linux-white?style=flat-square&logo=linux">
+    <img alt="an alternate image of the" src="header-dark.jpg">
+</picture>
+<picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Mac-black?style=flat-square&logo=apple">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Mac-white?style=flat-square&logo=apple">
+    <img alt="an alternate image of the" src="header-dark.jpg">
+</picture>
 <hr>
 
 **I'm Johnathan** 👋 - The sense of accomplishment that I derive from software development is unparalleled. To me, there's a unique satisfaction in seeing source code come together to form a functioning piece of software. It's a feeling of creative expression and problem-solving that I haven’t been able to find anywhere else. Recently, I’ve found great interest in the design and implementation of programming languages themselves, and have directed my academic studies towards type theory and compilers. I’ve also begun building my own programming language, Arc, using Rust 🦀.
