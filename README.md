@@ -3,7 +3,7 @@
 ```php
 <?php
 
-namespace AshBaker;
+namespace JohnathanRadojevich;
 
 class About extends Me
 {
@@ -11,13 +11,13 @@ class About extends Me
     {
         return [
             'workplace' => [
-                'company' => 'Qquicker',
-                'position' => 'Founder'         
+                'company' => 'Terracon',
+                'position' => 'Application Developer'         
             ]
         ];
     }
 
-    public function getDailyKnowledge(): array
+    public function getKnowledge(): array
     {
         return [
             Php::class,
@@ -31,9 +31,11 @@ class About extends Me
         ];
     }
 
-    public function getFutureGoal(): string
+    public function getGoal(): string
     {
-        return 'To contribute to open source.';
+        return 'to contribute to open source';
     }
 }
 ```
+
+# Hello! 
