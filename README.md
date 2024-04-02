@@ -17,3 +17,9 @@ I have more than 4 years of experience defining requirements, and designing, imp
     <img alt="Andrew Grant's GitHub Profile README" src="https://raw.githubusercontent.com/Andrew6rant/Andrew6rant/main/light_mode.svg">
   </picture>
 </a>
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg">
+    <img alt="an alternate image of the" src="header-dark.jpg">
+</picture>
