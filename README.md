@@ -81,6 +81,36 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Redis-0e1117?style=flat-square&logo=redis">
     <img alt="an alternate image of the" src="header-dark.jpg">
 </picture>
+<picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Terraform-black?style=flat-square&logo=terraform">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Terraform-0e1117?style=flat-square&logo=terraform">
+    <img alt="an alternate image of the" src="header-dark.jpg">
+</picture>
+<picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-NixOS-black?style=flat-square&logo=nixos">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Terraform-0e1117?style=flat-square&logo=nixos">
+    <img alt="an alternate image of the" src="header-dark.jpg">
+</picture>
+<picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-MSSQL Server-black?style=flat-square&logo=microsoftsqlserver">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-MSSQL Server-0e1117?style=flat-square&logo=microsoftsqlserver">
+    <img alt="an alternate image of the" src="header-dark.jpg">
+</picture>
+<picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-RabbitMQ-black?style=flat-square&logo=rabbitmq">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-RabbitMQ-0e1117?style=flat-square&logo=rabbitmq">
+    <img alt="an alternate image of the" src="header-dark.jpg">
+</picture>
+<picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-React-black?style=flat-square&logo=react">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-React-0e1117?style=flat-square&logo=react">
+    <img alt="an alternate image of the" src="header-dark.jpg">
+</picture>
+<picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Angular-0e1117?style=flat-square&logo=angular">
+    <img alt="an alternate image of the" src="header-dark.jpg">
+</picture>
 <hr>
 
 **I'm Johnathan** 👋 - The sense of accomplishment that I derive from software development is unparalleled. To me, there's a unique satisfaction in seeing source code come together to form a functioning piece of software. It's a feeling of creative expression and problem-solving that I haven’t been able to find anywhere else. Recently, I’ve found great interest in the design and implementation of programming languages themselves, and have directed my academic studies towards type theory and compilers. I’ve also begun building my own programming language, Arc, using Rust 🦀.
