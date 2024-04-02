@@ -76,6 +76,11 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Mac-white?style=flat-square&logo=apple">
     <img alt="an alternate image of the" src="header-dark.jpg">
 </picture>
+<picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Redis-white?style=flat-square&logo=redis">
+    <img alt="an alternate image of the" src="header-dark.jpg">
+</picture>
 <hr>
 
 **I'm Johnathan** 👋 - The sense of accomplishment that I derive from software development is unparalleled. To me, there's a unique satisfaction in seeing source code come together to form a functioning piece of software. It's a feeling of creative expression and problem-solving that I haven’t been able to find anywhere else. Recently, I’ve found great interest in the design and implementation of programming languages themselves, and have directed my academic studies towards type theory and compilers. I’ve also begun building my own programming language, Arc, using Rust 🦀.
