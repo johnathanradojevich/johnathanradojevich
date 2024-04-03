@@ -1,6 +1,6 @@
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="header-dark.jpg">
-    <source media="(prefers-color-scheme: light)" srcset="header-light.jpg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/johnathanradojevich/johnathanradojevich/assets/31018428/6448b0bf-0d5a-48af-b46e-fe92aa915b4c">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/johnathanradojevich/johnathanradojevich/assets/31018428/6448b0bf-0d5a-48af-b46e-fe92aa915b4c">
     <img alt="an alternate image of the" src="header-dark.jpg">
 </picture>
 
