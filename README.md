@@ -4,7 +4,7 @@
     <img alt="an alternate image of the" src="header-dark.jpg">
 </picture>
 <hr>
-<h1>I'm Johnathan 👋</h1>
+<h1>I'm Johnathan Radojevich 👋</h1>
 <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-HTML-e4e2dd?style=flat-square&logo=html5">
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-HTML-0e1117?style=flat-square&logo=html5">
@@ -230,21 +230,23 @@
 </picture>
 <h3>ƛ Software Engineer</h3>
 <blockquote>
-The sense of accomplishment that I derive from software development is unparalleled. To me, there's a unique satisfaction in seeing source code come together to form a functioning piece of software. It's a feeling of creative expression and problem-solving that I haven’t been able to find anywhere else.
+The sense of accomplishment that I derive from software development is unparalleled. To me, there's a unique satisfaction in seeing individual lines of code form into a functioning piece of software. It's a feeling of creative expression and problem-solving that I haven’t been able to find anywhere else.
 </blockquote>
 <hr>
 <p>
-    I have more than 4 years of experience defining requirements, and designing, implementing, testing and delivering complex web applications using a variety of programming languages and technologies. I am also a certified Scrum Master, Product Owner, and Developer, and am able to effectively introduce Scrum to teams and organizations, as well as contribute to existing Scrum teams. More recently, this has been in .NET/React based environments deployed across both AWS and Azure, but I have also spent significant time with Java/Spring, Angular, and Vue, and on-premises environments.
+    I have more than 4 years of experience of defining requirements and designing, implementing, testing and delivering complex web applications that have served millions of users, and delivered over $7 billion in revenue, using a variety of programming languages and technologies. I am also a certified Scrum Master, Product Owner, and Developer, and am able to effectively introduce Scrum to small teams and larger organizations. Most recently, this has been in .NET/React based environments deployed across both AWS and Azure, but I have also spent significant time with Java/Spring, Angular, and Vue.
+</p>
+<h3>ƛ Graduate Student @ <a href='https://ou.edu'>OU</a></h3>
+<p>
+     Recently, I’ve found great interest in the design and implementation of programming languages themselves, and have directed my academic studies towards type theory and compilers. I’ve also begun building my own programming language, <a href="https://werweroi">Arc</a>, using Rust 🦀. 
 </p>
 <p>
-     Recently, I’ve found great interest in the design and implementation of programming languages themselves, and have directed my academic studies towards type theory and compilers. I’ve also begun building my own programming language, <a href="https://werweroi">Arc</a>, using Rust 🦀.
+    I've always been fascinated by the intersection of computer science and geospatial technologies.
 </p>
-
-<h3>ƛ Graduate Student @ <a href='https://ou.edu'>OU</a></h3>
 <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/johnathanradojevich/johnathanradojevich/assets/31018428/8e02a5fb-dd18-4c8e-af2b-08d338ac865b">
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/johnathanradojevich/johnathanradojevich/assets/31018428/8e02a5fb-dd18-4c8e-af2b-08d338ac865b">
-    <img src="https://github.com/johnathanradojevich/johnathanradojevich/assets/31018428/8e02a5fb-dd18-4c8e-af2b-08d338ac865b" width="50%">
+    <img src="https://github.com/johnathanradojevich/johnathanradojevich/assets/31018428/8e02a5fb-dd18-4c8e-af2b-08d338ac865b" width="50%" align="left">
 </picture>
 <h3>ƛ Algebraic Type Enthusiast</h3>
 <h3>ƛ Technical<a href="https://radojevich.dev"> Blogger</a></h3>
