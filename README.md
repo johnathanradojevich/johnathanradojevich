@@ -3,6 +3,7 @@
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/johnathanradojevich/johnathanradojevich/assets/31018428/6448b0bf-0d5a-48af-b46e-fe92aa915b4c">
     <img alt="an alternate image of the" src="header-dark.jpg">
 </picture>
+<hr>
 
 <span>I'm Johnathan</span> 👋 - The sense of accomplishment that I derive from software development is unparalleled. To me, there's a unique satisfaction in seeing source code come together to form a functioning piece of software. It's a feeling of creative expression and problem-solving that I haven’t been able to find anywhere else. Recently, I’ve found great interest in the design and implementation of programming languages themselves, and have directed my academic studies towards type theory and compilers. I’ve also begun building my own programming language, Arc, using Rust 🦀.
 
