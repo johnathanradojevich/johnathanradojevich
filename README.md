@@ -168,14 +168,6 @@
 I have more than 4 years of experience defining requirements, and designing, implementing, testing and delivering complex web applications using a variety of programming languages and technologies. I am also a certified Scrum Master, Product Owner, and Developer, and am able to effectively introduce Scrum to teams and organizations, as well as contribute to existing Scrum teams. More recently, this has been in .NET/React based environments deployed across both AWS and Azure, but I have also spent significant time with Java/Spring, Angular, and Vue, and on-premises environments.
 
 
-<a href="https://github.com/Andrew6rant/Andrew6rant">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Andrew6rant/Andrew6rant/main/dark_mode.svg">
-    <img alt="Andrew Grant's GitHub Profile README" src="https://raw.githubusercontent.com/Andrew6rant/Andrew6rant/main/light_mode.svg">
-  </picture>
-</a>
-
-
 <hr>
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
