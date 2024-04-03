@@ -161,6 +161,67 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Postgres-0e1117?style=flat-square&logo=nextjs">
     <img alt="an alternate image of the" src="header-dark.jpg">
 </picture>
+<picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Elasticsearch-e4e2dd?style=flat-square&logo=elasticsearch">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Elasticsearch-0e1117?style=flat-square&logo=elasticsearch">
+    <img alt="an alternate image of the" src="header-dark.jpg">
+</picture>
+<picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-SpringBoot-e4e2dd?style=flat-square&logo=springboot">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-SpringBoot-0e1117?style=flat-square&logo=springboot">
+    <img alt="an alternate image of the" src="header-dark.jpg">
+</picture>
+<picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-.NET_Core-e4e2dd?style=flat-square&logo=aspnetcore">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-.NET_Core-0e1117?style=flat-square&logo=aspnetcore">
+    <img alt="an alternate image of the" src="header-dark.jpg">
+</picture>
+<picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Express-e4e2dd?style=flat-square&logo=express">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Express-0e1117?style=flat-square&logo=express">
+    <img alt="an alternate image of the" src="header-dark.jpg">
+</picture>
+<picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Node.js-e4e2dd?style=flat-square&logo=nodejs">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Node.js-0e1117?style=flat-square&logo=nodejs">
+    <img alt="an alternate image of the" src="header-dark.jpg">
+</picture>
+</picture>
+<picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Vite-e4e2dd?style=flat-square&logo=vite">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Vite-0e1117?style=flat-square&logo=vite">
+    <img alt="an alternate image of the" src="header-dark.jpg">
+</picture>
+<picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Bun-e4e2dd?style=flat-square&logo=bun">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Bun-0e1117?style=flat-square&logo=bun">
+    <img alt="an alternate image of the" src="header-dark.jpg">
+</picture>
+<picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Deno-e4e2dd?style=flat-square&logo=deno">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Deno-0e1117?style=flat-square&logo=deno">
+    <img alt="an alternate image of the" src="header-dark.jpg">
+</picture>
+<picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Jetbrains-e4e2dd?style=flat-square&logo=jetbrains">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Jetbrains-0e1117?style=flat-square&logo=jetbrains">
+    <img alt="an alternate image of the" src="header-dark.jpg">
+</picture>
+<picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Microsoft_Teams-e4e2dd?style=flat-square&logo=microsoftteams">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Microsoft_Teams-0e1117?style=flat-square&logo=microsoftteams">
+    <img alt="an alternate image of the" src="header-dark.jpg">
+</picture>
+<picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-GitHub_Copilot-e4e2dd?style=flat-square&logo=githubcopilot">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-GitHub_Copilot-0e1117?style=flat-square&logo=githubcopilot">
+    <img alt="an alternate image of the" src="header-dark.jpg">
+</picture>
+<picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-GitHub_Copilot-e4e2dd?style=flat-square&logo=apachecassandra">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-GitHub_Copilot-0e1117?style=flat-square&logo=apachecassandra">
+    <img alt="an alternate image of the" src="header-dark.jpg">
+</picture>
 <hr>
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
@@ -176,11 +237,15 @@ The sense of accomplishment that I derive from software development is unparalle
     I have more than 4 years of experience defining requirements, and designing, implementing, testing and delivering complex web applications using a variety of programming languages and technologies. I am also a certified Scrum Master, Product Owner, and Developer, and am able to effectively introduce Scrum to teams and organizations, as well as contribute to existing Scrum teams. More recently, this has been in .NET/React based environments deployed across both AWS and Azure, but I have also spent significant time with Java/Spring, Angular, and Vue, and on-premises environments.
 </p>
 <p>
-     Recently, I’ve found great interest in the design and implementation of programming languages themselves, and have directed my academic studies towards type theory and compilers. I’ve also begun building my own programming language, Arc, using Rust 🦀.
+     Recently, I’ve found great interest in the design and implementation of programming languages themselves, and have directed my academic studies towards type theory and compilers. I’ve also begun building my own programming language, <a href="https://werweroi">Arc</a>, using Rust 🦀.
 </p>
 
-<h3>ƛ Graduate Student @ <a href='https://ou.edu'>OU</a></h3> 
-<img src="https://github.com/johnathanradojevich/johnathanradojevich/assets/31018428/8e02a5fb-dd18-4c8e-af2b-08d338ac865b">
+<h3>ƛ Graduate Student @ <a href='https://ou.edu'>OU</a></h3>
+<picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/johnathanradojevich/johnathanradojevich/assets/31018428/8e02a5fb-dd18-4c8e-af2b-08d338ac865b">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/johnathanradojevich/johnathanradojevich/assets/31018428/8e02a5fb-dd18-4c8e-af2b-08d338ac865b">
+    <img src="https://github.com/johnathanradojevich/johnathanradojevich/assets/31018428/8e02a5fb-dd18-4c8e-af2b-08d338ac865b" width="50%">
+</picture>
 <h3>ƛ Algebraic Type Enthusiast</h3>
 <h3>ƛ Technical<a href="https://radojevich.dev"> Blogger</a></h3>
 <hr>
