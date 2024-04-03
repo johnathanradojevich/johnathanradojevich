@@ -8,14 +8,12 @@
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
     <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg">
-    <img alt="an animated visualization of github contributions" src="./profile-3d-contrib/profile-green-animate.svg" width="65%" align="right">
+    <img alt="an animated visualization of github contributions" src="./profile-3d-contrib/profile-green-animate.svg" width="50%" align="right">
 </picture>
-
+<h4>ƛ Software Engineer</h3> 
 The sense of accomplishment that I derive from software development is unparalleled. To me, there's a unique satisfaction in seeing source code come together to form a functioning piece of software. It's a feeling of creative expression and problem-solving that I haven’t been able to find anywhere else. Recently, I’ve found great interest in the design and implementation of programming languages themselves, and have directed my academic studies towards type theory and compilers. I’ve also begun building my own programming language, Arc, using Rust 🦀.
 
 I have more than 4 years of experience defining requirements, and designing, implementing, testing and delivering complex web applications using a variety of programming languages and technologies. I am also a certified Scrum Master, Product Owner, and Developer, and am able to effectively introduce Scrum to teams and organizations, as well as contribute to existing Scrum teams. More recently, this has been in .NET/React based environments deployed across both AWS and Azure, but I have also spent significant time with Java/Spring, Angular, and Vue, and on-premises environments.
-
-<h4>ƛ Software Engineer</h3> 
 
 <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-HTML-e4e2dd?style=flat-square&logo=html5">
@@ -57,7 +55,6 @@ I have more than 4 years of experience defining requirements, and designing, imp
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Rust-0e1117?style=flat-square&logo=rust">
     <img alt="an alternate image of the" src="header-dark.jpg">
 </picture>
-<h4>ƛ Graduate Student @ <a href='https://ou.edu'>OU</a></h4> 
 <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Kotlin-e4e2dd?style=flat-square&logo=kotlin">
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Kotlin-0e1117?style=flat-square&logo=kotlin">
@@ -93,7 +90,6 @@ I have more than 4 years of experience defining requirements, and designing, imp
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Redis-0e1117?style=flat-square&logo=redis">
     <img alt="an alternate image of the" src="header-dark.jpg">
 </picture>
-<h4>ƛ Algebraic Type Enthusiast</h3>
 <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Terraform-e4e2dd?style=flat-square&logo=terraform">
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Terraform-0e1117?style=flat-square&logo=terraform">
@@ -119,7 +115,6 @@ I have more than 4 years of experience defining requirements, and designing, imp
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-React-0e1117?style=flat-square&logo=react">
     <img alt="an alternate image of the" src="header-dark.jpg">
 </picture>
-<h4>ƛ Technical<a href="https://radojevich.dev"> Blogger</a></h4>
 
 <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Angular-e4e2dd?style=flat-square&logo=angular">
@@ -176,4 +171,8 @@ I have more than 4 years of experience defining requirements, and designing, imp
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Postgres-0e1117?style=flat-square&logo=nextjs">
     <img alt="an alternate image of the" src="header-dark.jpg">
 </picture>
+
+<h4>ƛ Graduate Student @ <a href='https://ou.edu'>OU</a></h4> 
+<h4>ƛ Algebraic Type Enthusiast</h4>
+<h4>ƛ Technical<a href="https://radojevich.dev"> Blogger</a></h4>
 <hr>
