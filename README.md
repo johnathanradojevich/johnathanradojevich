@@ -11,7 +11,7 @@
     <img alt="an animated visualization of github contributions" src="./profile-3d-contrib/profile-green-animate.svg" width="65%" align="right">
 </picture>
 
-<h2>I'm Johnathan 👋</h2>
+<h1>I'm Johnathan 👋</h1>
 
 The sense of accomplishment that I derive from software development is unparalleled. To me, there's a unique satisfaction in seeing source code come together to form a functioning piece of software. It's a feeling of creative expression and problem-solving that I haven’t been able to find anywhere else. Recently, I’ve found great interest in the design and implementation of programming languages themselves, and have directed my academic studies towards type theory and compilers. I’ve also begun building my own programming language, Arc, using Rust 🦀.
 
