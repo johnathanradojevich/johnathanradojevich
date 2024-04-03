@@ -4,7 +4,7 @@
     <img alt="an alternate image of the" src="header-dark.jpg">
 </picture>
 
-<h3 align="center">Software Engineer | Graduate Student @ <a href='https://ou.edu'>OU</a> | Algebraic Type Enthusiast | Technical Blogger | <a href='https://aws.amazon.com/developer/community/community-builders/'> AWS Community Builder</a></h3>
+<h3>Software Engineer | Graduate Student @ <a href='https://ou.edu'>OU</a> | Algebraic Type Enthusiast | Technical Blogger | <a href='https://aws.amazon.com/developer/community/community-builders/'> AWS Community Builder</a></h3>
 <hr>
 
 **I'm Johnathan** 👋 - The sense of accomplishment that I derive from software development is unparalleled. To me, there's a unique satisfaction in seeing source code come together to form a functioning piece of software. It's a feeling of creative expression and problem-solving that I haven’t been able to find anywhere else. Recently, I’ve found great interest in the design and implementation of programming languages themselves, and have directed my academic studies towards type theory and compilers. I’ve also begun building my own programming language, Arc, using Rust 🦀.
