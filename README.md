@@ -5,10 +5,6 @@
 </picture>
 
 <h4>ƛ Software Engineer</h3> 
-<h4>ƛ Graduate Student @ <a href='https://ou.edu'>OU</a></h4> 
-<h4>ƛ Algebraic Type Enthusiast</h3> 
-<h4>ƛ Technical<a href="https://radojevich.dev"> Blogger</a></h4>
-
 
 <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-HTML-e4e2dd?style=flat-square&logo=html5">
@@ -50,6 +46,10 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Rust-0e1117?style=flat-square&logo=rust">
     <img alt="an alternate image of the" src="header-dark.jpg">
 </picture>
+<h4>ƛ Graduate Student @ <a href='https://ou.edu'>OU</a></h4> 
+<h4>ƛ Algebraic Type Enthusiast</h3> 
+<h4>ƛ Technical<a href="https://radojevich.dev"> Blogger</a></h4>
+
 <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Kotlin-e4e2dd?style=flat-square&logo=kotlin">
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Kotlin-0e1117?style=flat-square&logo=kotlin">
