@@ -226,7 +226,7 @@
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
     <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg">
-    <img alt="an animated visualization of github contributions" src="./profile-3d-contrib/profile-green-animate.svg" width="60%" align="right">
+    <img alt="an animated visualization of github contributions" src="./profile-3d-contrib/profile-green-animate.svg" width="65%" align="right">
 </picture>
 <h3>ƛ Software Engineer</h3>
 <blockquote>
