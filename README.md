@@ -4,10 +4,10 @@
     <img alt="an alternate image of the" src="header-dark.jpg">
 </picture>
 
-<h4 align="left">ƛ Software Engineer</h3> 
-<h4 align="left">ƛ Graduate Student @ <a href='https://ou.edu'>OU</a></h3> 
-<h4 align="right">ƛ Algebraic Type Enthusiast</h3> 
-<h4 align="right">ƛ Technical<a href="https://radojevich.dev"> Blogger</a></h3>
+<h4>ƛ Software Engineer</h3> 
+<h4>ƛ Graduate Student @ <a href='https://ou.edu'>OU</a></h4> 
+<h4>ƛ Algebraic Type Enthusiast</h3> 
+<h4>ƛ Technical<a href="https://radojevich.dev"> Blogger</a></h4>
 
 
 <picture>
