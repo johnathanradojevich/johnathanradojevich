@@ -176,6 +176,7 @@ The sense of accomplishment that I derive from software development is unparalle
 </picture>
 
 <h3>ƛ Graduate Student @ <a href='https://ou.edu'>OU</a></h3> 
+<img src="https://github.com/johnathanradojevich/johnathanradojevich/assets/31018428/8e02a5fb-dd18-4c8e-af2b-08d338ac865b">
 <h3>ƛ Algebraic Type Enthusiast</h3>
 <h3>ƛ Technical<a href="https://radojevich.dev"> Blogger</a></h3>
 <hr>
