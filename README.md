@@ -238,10 +238,10 @@ The sense of accomplishment that I derive from software development is unparalle
 </p>
 <h3>👨‍🎓 Graduate Student @ <a href='https://ou.edu'>OU</a></h3>
 <p>
-     Recently, I’ve found great interest in the design and implementation of programming languages themselves, and have directed my academic studies towards type theory and compilers. I’ve also begun building my own programming language, <a href="https://werweroi">Arc</a>, using Rust 🦀. 
+    I've always been fascinated by the intersection of computer science and geospatial technologies.
 </p>
 <p>
-    I've always been fascinated by the intersection of computer science and geospatial technologies.
+     Recently, I’ve found great interest in the design and implementation of programming languages themselves, and have directed my academic studies towards type theory and compilers. I’ve also begun building my own programming language, <a href="https://werweroi">Arc</a>, using Rust 🦀.
 </p>
 <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/johnathanradojevich/johnathanradojevich/assets/31018428/8e02a5fb-dd18-4c8e-af2b-08d338ac865b">
