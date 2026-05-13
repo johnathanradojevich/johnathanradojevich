@@ -31,18 +31,23 @@
     <img alt="an alternate image of the" src="header-dark.jpg">
 </picture>
 <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Azure-e4e2dd?style=flat-square&logo=microsoftazure">
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Azure-0e1117?style=flat-square&logo=microsoftazure">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Python-e4e2dd?style=flat-square&logo=python">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Python-0e1117?style=flat-square&logo=python">
     <img alt="an alternate image of the" src="header-dark.jpg">
 </picture>
 <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-AWS-e4e2dd?style=flat-square&logo=amazonaws">
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-AWS-0e1117?style=flat-square&logo=amazonaws">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Azure-e4e2dd?style=flat-square&logo=icloud">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Azure-0e1117?style=flat-square&logo=icloud">
     <img alt="an alternate image of the" src="header-dark.jpg">
 </picture>
 <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Google_Cloud-e4e2dd?style=flat-square&logo=googlecloud">
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Google_Cloud-0e1117?style=flat-square&logo=googlecloud">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-AWS-e4e2dd?style=flat-square&logo=icloud">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-AWS-0e1117?style=flat-square&logo=icloud">
+    <img alt="an alternate image of the" src="header-dark.jpg">
+</picture>
+<picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Mac-e4e2dd?style=flat-square&logo=apple">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Mac-0e1117?style=flat-square&logo=apple">
     <img alt="an alternate image of the" src="header-dark.jpg">
 </picture>
 <picture>
@@ -51,8 +56,8 @@
     <img alt="an alternate image of the" src="header-dark.jpg">
 </picture>
 <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Mac-e4e2dd?style=flat-square&logo=apple">
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Mac-0e1117?style=flat-square&logo=apple">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-NixOS-e4e2dd?style=flat-square&logo=nixos">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-NixOS-0e1117?style=flat-square&logo=nixos">
     <img alt="an alternate image of the" src="header-dark.jpg">
 </picture>
 <picture>
@@ -63,11 +68,6 @@
 <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Terraform-e4e2dd?style=flat-square&logo=terraform">
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Terraform-0e1117?style=flat-square&logo=terraform">
-    <img alt="an alternate image of the" src="header-dark.jpg">
-</picture>
-<picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-NixOS-e4e2dd?style=flat-square&logo=nixos">
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Terraform-0e1117?style=flat-square&logo=nixos">
     <img alt="an alternate image of the" src="header-dark.jpg">
 </picture>
 <hr>
