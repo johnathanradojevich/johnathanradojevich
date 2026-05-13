@@ -97,6 +97,15 @@ The sense of accomplishment that I derive from software development is unparalle
     <img src="https://github.com/johnathanradojevich/johnathanradojevich/assets/31018428/8e02a5fb-dd18-4c8e-af2b-08d338ac865b" width="50%" align="left">
 </picture>
 <h3>❄️ Nix Enthusiast</h3>
+<p>
+    I’m deeply interested in the Nix ecosystem as both a technical platform and a broader model for reproducible computing. What draws me to Nix is its ability to formalize environments declaratively and make software systems genuinely reproducible across time, machines, and deployment contexts. I’m particularly interested in the theoretical and practical implications of functional package management — immutability, referential transparency, deterministic builds, and composable system definitions — and how these ideas can improve the reliability of modern infrastructure and research computing.
+</p>
+<p></p>
+Much of my interest lies in continuing to learn the deeper mechanics of Nix itself: flakes, nixpkgs architecture, module systems, build derivations, distributed caching, and reproducible development environments. I’m also interested in contributing back to the community through tooling, shared infrastructure, documentation, and open-source collaboration. The Nix ecosystem represents a rare intersection of systems engineering, language design, and operational reproducibility, and I value the culture of experimentation and long-term maintainability that has formed around it.
+</p>
+<p>
+I’m especially interested in the application of Nix to biological and healthcare computing domains, where reproducibility is not merely a convenience but a foundational requirement. Bioinformatics and healthcare workflows frequently involve heterogeneous toolchains, tightly coupled dependencies, and long-lived computational pipelines that are difficult to preserve or reproduce over time. Nix offers a compelling framework for addressing these problems by enabling declarative, versioned, and isolated computational environments that can be reconstructed with precision across research teams and infrastructure boundaries.
+</p>
 <h3>💻 Technical<a href="https://radojevich.dev"> Blogger</a></h3>
 <p>
     I'm available on <a href="https://">Substack.</a>
