@@ -92,9 +92,9 @@ The sense of accomplishment that I derive from software development is unparalle
      Recently, I’ve found great interest in the design and implementation of programming languages themselves, and have directed my academic studies towards type theory and compilers. I’ve also begun building my own programming language, <a href="https://werweroi">Arc</a>, using Rust 🦀.
 </p>
 <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/johnathanradojevich/johnathanradojevich/assets/31018428/8e02a5fb-dd18-4c8e-af2b-08d338ac865b">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/johnathanradojevich/johnathanradojevich/assets/31018428/8e02a5fb-dd18-4c8e-af2b-08d338ac865b">
-    <img src="https://github.com/johnathanradojevich/johnathanradojevich/assets/31018428/8e02a5fb-dd18-4c8e-af2b-08d338ac865b" width="50%" align="left">
+    <source media="(prefers-color-scheme: light)" srcset="logo_light.png">
+    <source media="(prefers-color-scheme: dark)"  srcset="logo_dark.png">
+    <img src="logo_light.png" width="50%" align="left">
 </picture>
 <h3>❄️ Nix Enthusiast</h3>
 <p>
