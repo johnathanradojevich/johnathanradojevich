@@ -4,7 +4,7 @@
     <img alt="an alternate image of the" src="header-dark.jpg">
 </picture>
 <hr>
-<h1>I'm Johnathan Radojevich 👋 I love to code. I love creating impact 🚀</h1>
+<h1>I'm Johnathan Radojevich 👋 I love to code. I love creating impact.</h1>
 <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-HTML-e4e2dd?style=flat-square&logo=html5">
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-HTML-0e1117?style=flat-square&logo=html5">
