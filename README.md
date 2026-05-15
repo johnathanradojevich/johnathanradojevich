@@ -46,6 +46,16 @@
     <img alt="an alternate image of the" src="header-dark.jpg">
 </picture>
 <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Numpy-e4e2dd?style=flat-square&logo=numpy">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Numpy-0e1117?style=flat-square&logo=numpy">
+    <img alt="an alternate image of the" src="header-dark.jpg">
+</picture>
+<picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Pandas-e4e2dd?style=flat-square&logo=pandas">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Pandas-0e1117?style=flat-square&logo=pandas">
+    <img alt="an alternate image of the" src="header-dark.jpg">
+</picture>
+<picture>
     <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Nix-e4e2dd?style=flat-square&logo=nixos">
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Nix-0e1117?style=flat-square&logo=nixos">
     <img alt="an alternate image of the" src="header-dark.jpg">
