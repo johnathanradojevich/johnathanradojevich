@@ -6,117 +6,117 @@
 <hr>
 <h1>I'm Johnathan Radojevich 👋 I love to code. I love creating impact.</h1>
 <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-HTML-e4e2dd?style=flat-square&logo=html5">
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-HTML-0e1117?style=flat-square&logo=html5">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-HTML-000000?style=flat-square&logo=htmx">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-HTML-0e1117?style=flat-square&logo=htmx">
     <img alt="an alternate image of the" src="header-dark.jpg">
 </picture>
 <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-CSS-e4e2dd?style=flat-square&logo=css3">
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-CSS-0e1117?style=flat-square&logo=css3">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-CSS-000000?style=flat-square&logo=css">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-CSS-0e1117?style=flat-square&logo=css">
     <img alt="an alternate image of the" src="header-dark.jpg">
 </picture>
 <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-JavaScript-e4e2dd?style=flat-square&logo=javascript">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript">
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-JavaScript-0e1117?style=flat-square&logo=javascript">
     <img alt="an alternate image of the" src="header-dark.jpg">
 </picture>
 <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-TypeScript-e4e2dd?style=flat-square&logo=typescript">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript">
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-TypeScript-0e1117?style=flat-square&logo=typescript">
     <img alt="an alternate image of the" src="header-dark.jpg">
 </picture>
 <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Java-e4e2dd?style=flat-square&logo=coffeescript">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Java-000000?style=flat-square&logo=coffeescript">
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Java-0e1117?style=flat-square&logo=coffeescript">
     <img alt="an alternate image of the" src="header-dark.jpg">
 </picture>
 <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Golang-e4e2dd?style=flat-square&logo=go">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Golang-000000?style=flat-square&logo=go">
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Golang-0e1117?style=flat-square&logo=go">
     <img alt="an alternate image of the" src="header-dark.jpg">
 </picture>
 <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Rust-e4e2dd?style=flat-square&logo=rust">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust">
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Rust-0e1117?style=flat-square&logo=rust">
     <img alt="an alternate image of the" src="header-dark.jpg">
 </picture>
 <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Python-e4e2dd?style=flat-square&logo=python">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python">
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Python-0e1117?style=flat-square&logo=python">
     <img alt="an alternate image of the" src="header-dark.jpg">
 </picture>
 <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Numpy-e4e2dd?style=flat-square&logo=numpy">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Numpy-000000?style=flat-square&logo=numpy">
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Numpy-0e1117?style=flat-square&logo=numpy">
     <img alt="an alternate image of the" src="header-dark.jpg">
 </picture>
 <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Pandas-e4e2dd?style=flat-square&logo=pandas">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Pandas-000000?style=flat-square&logo=pandas">
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Pandas-0e1117?style=flat-square&logo=pandas">
     <img alt="an alternate image of the" src="header-dark.jpg">
 </picture>
 <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-R-e4e2dd?style=flat-square&logo=r">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-R-000000?style=flat-square&logo=r">
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-R-0e1117?style=flat-square&logo=r">
     <img alt="an alternate image of the" src="header-dark.jpg">
 </picture>
 <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Nix-e4e2dd?style=flat-square&logo=nixos">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Nix-000000?style=flat-square&logo=nixos">
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Nix-0e1117?style=flat-square&logo=nixos">
     <img alt="an alternate image of the" src="header-dark.jpg">
 </picture>
 <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-PostgreSQL-e4e2dd?style=flat-square&logo=postgresql">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-PostgreSQL-000000?style=flat-square&logo=postgresql">
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-PostgreSQL-0e1117?style=flat-square&logo=postgresql">
     <img alt="an alternate image of the" src="header-dark.jpg">
 </picture>
 <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Azure-e4e2dd?style=flat-square&logo=icloud">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Azure-000000?style=flat-square&logo=icloud">
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Azure-0e1117?style=flat-square&logo=icloud">
     <img alt="an alternate image of the" src="header-dark.jpg">
 </picture>
 <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-AWS-e4e2dd?style=flat-square&logo=icloud">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-AWS-000000?style=flat-square&logo=icloud">
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-AWS-0e1117?style=flat-square&logo=icloud">
     <img alt="an alternate image of the" src="header-dark.jpg">
 </picture>
 <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Terraform-e4e2dd?style=flat-square&logo=terraform">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Terraform-000000?style=flat-square&logo=terraform">
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Terraform-0e1117?style=flat-square&logo=terraform">
     <img alt="an alternate image of the" src="header-dark.jpg">
 </picture>
 <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-MacOS-e4e2dd?style=flat-square&logo=apple">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-MacOS-000000?style=flat-square&logo=apple">
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-MacOS-0e1117?style=flat-square&logo=apple">
     <img alt="an alternate image of the" src="header-dark.jpg">
 </picture>
 <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Linux-e4e2dd?style=flat-square&logo=linux">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=linux">
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Linux-0e1117?style=flat-square&logo=linux">
     <img alt="an alternate image of the" src="header-dark.jpg">
 </picture>
 <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-NixOS-e4e2dd?style=flat-square&logo=nixos">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-NixOS-000000?style=flat-square&logo=nixos">
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-NixOS-0e1117?style=flat-square&logo=nixos">
     <img alt="an alternate image of the" src="header-dark.jpg">
 </picture>
 <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Kafka-e4e2dd?style=flat-square&logo=apachekafka">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Kafka-000000?style=flat-square&logo=apachekafka">
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Kafka-0e1117?style=flat-square&logo=apachekafka">
     <img alt="an alternate image of the" src="header-dark.jpg">
 </picture>
 <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Kubernetes-e4e2dd?style=flat-square&logo=kubernetes">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Kubernetes-000000?style=flat-square&logo=kubernetes">
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Kubernetes-0e1117?style=flat-square&logo=kubernetes">
     <img alt="an alternate image of the" src="header-dark.jpg">
 </picture>
 <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Redis-e4e2dd?style=flat-square&logo=redis">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Redis-000000?style=flat-square&logo=redis">
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Redis-0e1117?style=flat-square&logo=redis">
     <img alt="an alternate image of the" src="header-dark.jpg">
 </picture>
 <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Vim-e4e2dd?style=flat-square&logo=vim">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Vim-000000?style=flat-square&logo=vim">
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Vim-0e1117?style=flat-square&logo=vim">
     <img alt="an alternate image of the" src="header-dark.jpg">
 </picture>
