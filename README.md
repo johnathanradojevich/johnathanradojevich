@@ -138,7 +138,7 @@ The sense of accomplishment that I derive from software development is unparalle
 </p>
 <h3>👨‍🎓 Forever Student: Currently @ <a href='https://uwm.edu'>UWM</a></h3>
 <p>
-    I've always been a life-longer learner, and the continual growth of software engineering is why I decided to get into the field.
+    I’ve always been a lifelong learner, and the constant evolution of software engineering is one of the main reasons I was drawn to the field. Technology never stands still—there’s always a new framework to explore, a better design pattern to understand, or a more efficient way to solve problems. That continuous cycle of learning and improvement keeps me engaged and motivated. I enjoy the challenge of adapting to new technologies, expanding my skill set, and finding opportunities to grow both technically and professionally. For me, software engineering is more than just writing code; it’s a field that rewards curiosity, creativity, and a mindset of continuous learning.
 </p>
 <p>
      Recently, I’ve found great interest in the design and implementation of programming languages themselves, and have directed my academic studies towards type theory and compilers. I’ve also begun building my own programming language, <a href="https://acidex.io">Acidex</a>.
