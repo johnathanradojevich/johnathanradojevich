@@ -61,6 +61,16 @@
     <img alt="an alternate image of the" src="header-dark.jpg">
 </picture>
 <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Kafka-e4e2dd?style=flat-square&logo=apachekafka">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Kafka-0e1117?style=flat-square&logo=apachekafka">
+    <img alt="an alternate image of the" src="header-dark.jpg">
+</picture>
+<picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Kubernetes-e4e2dd?style=flat-square&logo=kubernetes">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Kubernetes-0e1117?style=flat-square&logo=kubernetes">
+    <img alt="an alternate image of the" src="header-dark.jpg">
+</picture>
+<picture>
     <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Redis-e4e2dd?style=flat-square&logo=redis">
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Redis-0e1117?style=flat-square&logo=redis">
     <img alt="an alternate image of the" src="header-dark.jpg">
