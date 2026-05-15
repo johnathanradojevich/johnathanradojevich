@@ -161,8 +161,8 @@ I’m especially interested in the application of Nix to biological and healthca
 <p>
 I'm currently using Nix to reproduce my personal development environment between various machines. I prefer to use MacOS as my primary OS, and NixOS within a VM, as my primary development environment. I use graphical applications on the host (Safari, Calendar, iMessgae, etc.), but I prefer to do almost everything development-related in the VM (editor, compilation, etc.). If you'd like to check out my configuration, you can <a href="https://github.com/johnathan-radojevich/nome">here.</a>
 </p>
-<h3>💻 Technical<a href="https://radojevich.dev"> Blogger</a></h3>
+<h3>💻 Technical Blogger</a></h3>
 <p>
-    I'm available on <a href="https://">Substack.</a>
+    I'm available on <a href="https://substack.com/@johnathanradojevich">Substack.</a>
 </p>
 <hr>
