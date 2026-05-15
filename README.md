@@ -31,8 +31,23 @@
     <img alt="an alternate image of the" src="header-dark.jpg">
 </picture>
 <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Golang-e4e2dd?style=flat-square&logo=go">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Golang-0e1117?style=flat-square&logo=go">
+    <img alt="an alternate image of the" src="header-dark.jpg">
+</picture>
+<picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Rust-e4e2dd?style=flat-square&logo=rust">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Rust-0e1117?style=flat-square&logo=rust">
+    <img alt="an alternate image of the" src="header-dark.jpg">
+</picture>
+<picture>
     <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Python-e4e2dd?style=flat-square&logo=python">
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Python-0e1117?style=flat-square&logo=python">
+    <img alt="an alternate image of the" src="header-dark.jpg">
+</picture>
+<picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Nix-e4e2dd?style=flat-square&logo=nixos">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Nix-0e1117?style=flat-square&logo=nixos">
     <img alt="an alternate image of the" src="header-dark.jpg">
 </picture>
 <picture>
