@@ -159,7 +159,7 @@ The sense of accomplishment that I derive from software development is unparalle
 I’m especially interested in the application of Nix to biological and healthcare computing domains, where reproducibility is not merely a convenience but a foundational requirement. Bioinformatics and healthcare workflows frequently involve heterogeneous toolchains, tightly coupled dependencies, and long-lived computational pipelines that are difficult to preserve or reproduce over time. I believe that Nix offers a compelling framework for addressing these problems by enabling declarative, versioned, and isolated computational environments that can be reconstructed with precision across research teams and infrastructure boundaries.
 </p>
 <p>
-    I'm currently using Nix to transport my development environment between machines. If you'd like to check it out, you can <a href="https://github.com/johnathan-radojevich/nome">here.</a>
+I'm currently using Nix to reproduce my personal development environment between various machines. I prefer to use MacOS as my primary OS, and NixOS within a VM, as my primary development environment. I use graphical applications on the host (Safari, Calendar, iMessgae, etc.), but I prefer to do almost everything development-related in the VM (editor, compilation, etc.). If you'd like to check out my configuration, you can <a href="https://github.com/johnathan-radojevich/nome">here.</a>
 </p>
 <h3>💻 Technical<a href="https://radojevich.dev"> Blogger</a></h3>
 <p>
