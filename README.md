@@ -86,8 +86,8 @@
     <img alt="an alternate image of the" src="header-dark.jpg">
 </picture>
 <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Mac-e4e2dd?style=flat-square&logo=apple">
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Mac-0e1117?style=flat-square&logo=apple">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-MacOS-e4e2dd?style=flat-square&logo=apple">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-MacOS-0e1117?style=flat-square&logo=apple">
     <img alt="an alternate image of the" src="header-dark.jpg">
 </picture>
 <picture>
