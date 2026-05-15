@@ -51,6 +51,11 @@
     <img alt="an alternate image of the" src="header-dark.jpg">
 </picture>
 <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-PostgreSQL-e4e2dd?style=flat-square&logo=postgresql">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-PostgreSQL-0e1117?style=flat-square&logo=postgresql">
+    <img alt="an alternate image of the" src="header-dark.jpg">
+</picture>
+<picture>
     <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Azure-e4e2dd?style=flat-square&logo=icloud">
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Azure-0e1117?style=flat-square&logo=icloud">
     <img alt="an alternate image of the" src="header-dark.jpg">
