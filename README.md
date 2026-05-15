@@ -141,7 +141,10 @@ The sense of accomplishment that I derive from software development is unparalle
     I’ve always been a lifelong learner, and the constant evolution of software engineering is one of the main reasons I was drawn to the field. Technology never stands still—there’s always a new framework to explore, a better design pattern to understand, or a more efficient way to solve problems. That continuous cycle of learning and improvement keeps me engaged and motivated. I enjoy the challenge of adapting to new technologies, expanding my skill set, and finding opportunities to grow both technically and professionally. For me, software engineering is more than just writing code; it’s a field that rewards curiosity, creativity, and a mindset of continuous learning.
 </p>
 <p>
-     Recently, I’ve found great interest in the design and implementation of programming languages themselves, and have directed my academic studies towards type theory and compilers. I’ve also begun building my own programming language, <a href="https://acidex.io">Acidex</a>.
+    Following a recent struggle with my own health, I’ve developed a strong interest in the intersection of computer science and medicine. Experiencing the healthcare system from a personal perspective gave me a deeper appreciation for how critical technology can be in improving patient outcomes, accessibility, and quality of care. It also opened my eyes to the many challenges that still exist within healthcare—whether it’s fragmented systems, inefficient workflows, limited access to information, or the difficulty patients face when navigating complex medical processes. I'm currently taking healthcare-related classes at the University of Wisconsin - Milwaukee to develop the foundational knowledge needed to help bridge the gap. 
+</p>
+<p>
+    I’ve also begun building <a href="https://acidex.io">Acidex</a>. Acidex is an infrastructure layer for building digestive health applications that are grounded in chemistry and physiology.
 </p>
 <picture>
     <source media="(prefers-color-scheme: light)" srcset="logo_light.png">
