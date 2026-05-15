@@ -134,12 +134,14 @@ The sense of accomplishment that I derive from software development is unparalle
 <p>
     I have more than 5 years of experience of defining requirements and designing, implementing, testing and delivering complex web applications that have served millions of users, and delivered over $7 billion in revenue, using a variety of programming languages and technologies. I am also a certified Scrum Master, Product Owner, and Developer.
 </p>
+    I'm actively interested in remote opportunities within the healthcare space. If you'd like to get in contact with me, you can <a href="https://www.linkedin.com/in/johnathan-radojevich/?skipRedirect=true">here.</a>
+</p>
 <h3>👨‍🎓 Forever Student: Currently @ <a href='https://uwm.edu'>UWM</a></h3>
 <p>
-    I've always been fascinated by the intersection of computer science and medicine.
+    I've always been a life-longer learner, and the continual growth of software engineering is why I decided to get into the field.
 </p>
 <p>
-     Recently, I’ve found great interest in the design and implementation of programming languages themselves, and have directed my academic studies towards type theory and compilers. I’ve also begun building my own programming language, <a href="https://werweroi">Arc</a>, using Rust 🦀.
+     Recently, I’ve found great interest in the design and implementation of programming languages themselves, and have directed my academic studies towards type theory and compilers. I’ve also begun building my own programming language, <a href="https://acidex.io">Acidex</a>.
 </p>
 <picture>
     <source media="(prefers-color-scheme: light)" srcset="logo_light.png">
