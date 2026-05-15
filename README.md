@@ -56,6 +56,11 @@
     <img alt="an alternate image of the" src="header-dark.jpg">
 </picture>
 <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-R-e4e2dd?style=flat-square&logo=r">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-R-0e1117?style=flat-square&logo=r">
+    <img alt="an alternate image of the" src="header-dark.jpg">
+</picture>
+<picture>
     <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Nix-e4e2dd?style=flat-square&logo=nixos">
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Nix-0e1117?style=flat-square&logo=nixos">
     <img alt="an alternate image of the" src="header-dark.jpg">
