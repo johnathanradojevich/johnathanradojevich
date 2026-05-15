@@ -134,7 +134,7 @@ The sense of accomplishment that I derive from software development is unparalle
 <p>
     I have more than 5 years of experience of defining requirements and designing, implementing, testing and delivering complex web applications that have served millions of users, and delivered over $7 billion in revenue, using a variety of programming languages and technologies. I am also a certified Scrum Master, Product Owner, and Developer.
 </p>
-<h3>👨‍🎓 Forever Student @ <a href='https://uwm.edu'>UWM</a></h3>
+<h3>👨‍🎓 Forever Student: Currently @ <a href='https://uwm.edu'>UWM</a></h3>
 <p>
     I've always been fascinated by the intersection of computer science and medicine.
 </p>
